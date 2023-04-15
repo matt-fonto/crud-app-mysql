@@ -1,0 +1,3 @@
+back-end: node
+front-end: react
+database: mySql
